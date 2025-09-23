@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# LeetCode LLM Context
+# LeetCode Context
 
 </div>
 This repository contains SQL solutions to various LeetCode problems. It aims to provide a structured collection of code snippets that can be easily used for reference, learning, or integration with LLM-based tools for code analysis and question answering.
